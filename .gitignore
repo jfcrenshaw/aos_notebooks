@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# ignore the link to donut_sims
+# ignore links
 donut_sims
+ml-aos
